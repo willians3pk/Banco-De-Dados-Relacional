@@ -1,7 +1,7 @@
 # Banco-De-Dados-Relacional
 As Atividades da Materia de Banco de Dados Relacional seram postadas nesse Repositorio
 
-#Modelo Entidade Relacional
+## Modelo Entidade Relacional
 
 Exercício 3.5: Estudo de caso - Administradora de imóveisConstrua um diagrama ER (apenas entidades e relacionamentos com cardina-
 lidades máximas) para a administradora de imóveis descrita abaixo.
@@ -9,6 +9,7 @@ A administradora trabalha tanto com administração de condomínios,
 quanto com a administração de aluguéis.
 Uma entrevista com o gerente da administradora resultou nas seguintes
 informações:
+
 a) A administradora administra condomínios formados por unidades con-
 dominiais.
 b) Cada unidade condominial é de propriedade de uma ou mais pessoas.
