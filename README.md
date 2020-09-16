@@ -12,8 +12,10 @@ informações:
 
 a) A administradora administra condomínios formados por unidades con-
 dominiais.
+
 b) Cada unidade condominial é de propriedade de uma ou mais pessoas.
 Uma pessoa pode possuir diversas unidades.
+
 c) Cada unidade pode estar alugada para no máximo uma pessoa. Uma pes-
 soa pode alugar diversas unidades.
 
