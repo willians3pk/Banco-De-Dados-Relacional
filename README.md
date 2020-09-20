@@ -22,4 +22,18 @@ soa pode alugar diversas unidades.
 ![Modelo (ER)](https://user-images.githubusercontent.com/63554484/93284661-87e9c680-f7a9-11ea-82ed-c24f8a4af429.png)
 
 
-https://github.com/willians3pk/Banco-De-Dados-Relacional/issues/2#issue-705142018
+# Modelagem de Dados
+
+Construa o modelo Entidades-Relacionamentos a partir da seguinte descrição do sistema:
+
+
+
+Um sistema precisa de uma base de dados que permita gerir algumas informações de uma clinica de saúde.
+
+A premissa é que a base de dados deverá armazenar as informações relativa aos pacientes que frequentam a clínica (nome, morada, telefone e numero de beneficiário) e as informações dos médicos que lá trabalham (nomem, morada, contacto e especialidade).
+
+Além disso o sistema deverá armazenar as marcações de consultas de cada paciente para um determinado médico.
+
+No entanto, na clinica um paciente pode obviamente consultar diferentes médicos para a mesma ou para diferentes especialidades.
+
+O sistema deverá ainda para cada paciente e por especialidade permitir organizar uma ficha de informações que é actualizada sempre que um médico da especialidade observa esse paciente
