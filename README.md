@@ -37,3 +37,6 @@ Além disso o sistema deverá armazenar as marcações de consultas de cada paci
 No entanto, na clinica um paciente pode obviamente consultar diferentes médicos para a mesma ou para diferentes especialidades.
 
 O sistema deverá ainda para cada paciente e por especialidade permitir organizar uma ficha de informações que é actualizada sempre que um médico da especialidade observa esse paciente
+
+## Modelo Conceitual
+![ClinicaModelo (ER)](https://user-images.githubusercontent.com/63554484/93716647-583f1380-fb47-11ea-88e2-6b048658ab23.png)
