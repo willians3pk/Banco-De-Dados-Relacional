@@ -40,3 +40,6 @@ O sistema deverá ainda para cada paciente e por especialidade permitir organiza
 
 ## Modelo Conceitual
 ![ClinicaModelo (ER)](https://user-images.githubusercontent.com/63554484/93716647-583f1380-fb47-11ea-88e2-6b048658ab23.png)
+
+## Modelo Logico
+![Clinica Modelo Logico](https://user-images.githubusercontent.com/63554484/93716677-8cb2cf80-fb47-11ea-9b54-07113de62e77.png)
