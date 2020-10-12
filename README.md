@@ -43,3 +43,10 @@ O sistema deverá ainda para cada paciente e por especialidade permitir organiza
 
 ## Modelo Logico
 ![Clinica Modelo Logico](https://user-images.githubusercontent.com/63554484/93716677-8cb2cf80-fb47-11ea-9b54-07113de62e77.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Atividade: Aplicando os conceitos visto em sala de aula, modele uma Rede Social com no mínimo 5 entidades e que haja relacionamentos entre essas entidades. Dos relacionamentos previstos, é necessário ao menos um relacionamento N:1.
+
+## Modelo Logico
+![pronto](https://user-images.githubusercontent.com/63554484/95792463-ed9e7500-0cb9-11eb-8e80-d71cc5f35415.png)
