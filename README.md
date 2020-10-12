@@ -19,7 +19,7 @@ Uma pessoa pode possuir diversas unidades.
 c) Cada unidade pode estar alugada para no máximo uma pessoa. Uma pes-
 soa pode alugar diversas unidades.
 
-![Modelo (ER)](https://user-images.githubusercontent.com/63554484/93284661-87e9c680-f7a9-11ea-82ed-c24f8a4af429.png)
+![corrigido](https://user-images.githubusercontent.com/63554484/93945280-00520980-fd0d-11ea-9593-3fad3a13f785.png)
 
 
 # Modelagem de Dados
